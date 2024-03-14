@@ -72,7 +72,7 @@ nav a:hover {
 }
 footer{
     text-align: center;
-    background: url(bg.jpg);
+    background: img src="bg.jpg";
     padding: 40px;
 }
 .copyrigth{
