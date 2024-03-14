@@ -1,0 +1,40 @@
+
+p{
+    text-align: center;
+ 
+}
+.tituloprincipal{
+    padding-left: 30px;
+}
+#banner{
+    width: 100%;
+}
+.principal{
+    background: #cccccc;
+    padding: 20px;
+}
+
+.titulocentralizado{
+text-align: center;
+}
+em strong{
+    color: red;
+}
+#mision {
+    font-size: 20px; text-align: center;
+}
+   .diferenciales{
+    background: blue;
+}
+.items{
+    font-style: italic; 
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+.imagendiferenciales {
+    width: 25%;
+}
